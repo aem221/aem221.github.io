@@ -1,5 +1,56 @@
+/*
+body{
+	font-family: arial;
+	font-size:14px;
+	margin:0;
+	padding:0;
+
+header ul li{
+	display: inline;
+	color: white;
+}
+
+header{
+
+	background-color: blue;
+	height: 82px;
+}
+
+nav a{
+	text-decoration: none
+	color: white;
+}
+
+.logo{
+
+	float:left;
+
+}
+
+.right ul
+{
+	float:right;
+}
+
+.top-bar ul li
+{
+	padding:30px;
+	height: 82px;
+}
+
+
+
+*/
 /* style.css by April Monchik Copy of Desnnis Yip Coffee Shop Site */
 
+
+body{
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	font-size: 100%;
+
+	}
 
 header{
 	display: block;
@@ -9,11 +60,12 @@ header{
 	background-color: #cbf3dd;
 }
 
-body{
-	height: 100%;
-	width: 100%;
-	margin: auto;
-	font-size: 100%;
+.content{
+	width: 80%;
+}
+
+#coffee-cup{
+	width: 50%;
 }
 
 #nav{
@@ -64,21 +116,21 @@ h1{
 	color: #6B4226;
 	font-size: 18px;
 	text-align: left
-	padding: 1px;
+	padding: 20px;
 }
 
 #about_title{
 	color: #6B4226;
 	font-size: 24px;
 	text-align: left
-	padding: 2px;
+	padding: 20px;
 }
 
 #about_p{
 	color: #6B4226;
 	font-size: 16px;
 	text-align: left
-	padding: 5px;
+	padding: 20px;
 }
 
 #logo{
