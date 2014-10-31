@@ -1,0 +1,194 @@
+/*
+body{
+	font-family: arial;
+	font-size:14px;
+	margin:0;
+	padding:0;
+
+header ul li{
+	display: inline;
+	color: white;
+}
+
+header{
+
+	background-color: blue;
+	height: 82px;
+}
+
+nav a{
+	text-decoration: none
+	color: white;
+}
+
+.logo{
+
+	float:left;
+
+}
+
+.right ul
+{
+	float:right;
+}
+
+.top-bar ul li
+{
+	padding:30px;
+	height: 82px;
+}
+
+
+
+*/
+/* style.css by April Monchik Copy of Desnnis Yip Coffee Shop Site */
+
+
+body{
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	font-size: 100%;
+
+	}
+
+header{
+	display: block;
+	height: 30%;
+	background: url("img/beans.jpg")center top;	
+	background-size: cover;
+	background-color: #cbf3dd;
+}
+
+.content{
+	width: 80%;
+}
+
+#coffee-cup{
+	width: 50%;
+}
+
+#nav{
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	margin-top: 1em;
+	margin-bottom: 2.3em;
+	text-decoration: none;
+	background-color: #cebb99;
+	position: relative;
+	padding: 0.4% 0; 
+}
+
+#nav ul{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+#nav ul li{
+	display: inline;
+	color: #D2B48C;
+	font-size: 24px;
+	font-family: Georgia, serif;
+	font-weight: 100;
+}
+
+#nav ul li a{
+	color: #6B4226;
+	text-decoration: none;
+	padding: 1%;
+}
+
+h2{
+	color: #6B4226;
+	font-size: 18px;
+	text-align: center;
+}
+
+h1{
+	color: #6B4226;
+	font-size: 24px;
+	text-align: center;
+}
+
+#about_subtitle{
+	color: #6B4226;
+	font-size: 18px;
+	text-align: left
+	padding: 20px;
+}
+
+#about_title{
+	color: #6B4226;
+	font-size: 24px;
+	text-align: left
+	padding: 20px;
+}
+
+#about_p{
+	color: #6B4226;
+	font-size: 16px;
+	text-align: left
+	padding: 20px;
+}
+
+#logo{
+	margin: auto;
+	display: block;
+	padding: 15px;
+}
+
+.content{
+	text-align: center;
+	width: 100%;
+	font-family: georgia, serif;
+	font-size: 14px;
+}
+
+#column1{
+	float: left;
+	width: 40%;
+	background-color: #FFFFFF;
+	padding: 20px;
+	margin: 15px;
+
+}
+
+#column2{
+	float: left;
+	width: 40%;
+	background-color: #FFFFFF;
+	padding: 20px;
+	margin: 15px;
+}
+
+#about{
+	text-align: center;
+	width: 100%;
+	font-family: georgia, serif;
+	font-size: 14px;
+}
+
+#footer{
+	clear: both;
+	height: 10%;
+	background-color: #230b03;
+	color: #cebb99;
+	text-align: center;
+	font-family: Georgia, serif;
+	padding: 15px;
+}
+
+@media screen and (max-width:500px){
+	#nav ul li{
+	display: block;
+	}
+
+	#column2{
+		clear: both;
+	}
+}
+
+
+
