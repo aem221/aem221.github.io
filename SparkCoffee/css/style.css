@@ -1,7 +1,7 @@
 body {
 	font-family: Arial, Verdana, sans-serif;
-	background-color: ##F9F9F9;
-	color: #64a1a5;
+	background-color: #f3e9e4;
+	color: #006253;
 	padding: 10x;
 	margin-right: 100px;
 	margin-left: 100px;
@@ -10,8 +10,10 @@ body {
 }
 
 p {
-	color: #64a1a5;
-	background-color: ##F9F9F9;
+	color: #58b455
+;
+	background-color: #f3e9e4
+;
 }
 
 #top{
@@ -25,46 +27,48 @@ a{
 }
 
 h1, h2, h3 {
-	color: #ed767a;
+	color: #e006253;
 	;
 
 }
 
 #summary{
-	color: #b54a71;
+	color: #a80080;
 
 }
 
 #strengths{
-	color: ed767a;
+	color: #a80080;
 
 }
 
 #list_of_strengths{
-	color: ed767a;
+	color: #58b455;
 
 
 }
 
 #experience{
-	color: b54a71;
+	color: #006253;
 
 
 }
 
 .company{
-	color: ed767a;
+	color: #a80080;
 	padding: inherit;
 
 
 }
 
 .company_summary{
+	color: #58b455;
 
 
 }
 
 .title{
+	color: #e98968;
 
 
 }
@@ -91,9 +95,14 @@ h1, h2, h3 {
 }
 #list_of_skills
 {
+	color: #006253;
+
 
 }
-.skilss{
+.skills{
+	color: #58b455
+;
+
 
 }
 
@@ -104,6 +113,7 @@ h1, h2, h3 {
 
 .videos{
 	padding: inherit;
+	#58b455;
 
 }
 #footer
