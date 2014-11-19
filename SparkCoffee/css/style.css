@@ -10,7 +10,7 @@ body {
 }
 
 p {
-	color: #aca3a0;
+	color: #64a1a5;
 	background-color: ##F9F9F9;
 }
 
@@ -25,30 +25,35 @@ a{
 }
 
 h1, h2, h3 {
-	color: #64a1a5;
+	color: #ed767a;
 	;
 
 }
 
 #summary{
+	color: #b54a71;
 
 }
 
 #strengths{
+	color: ed767a;
 
 }
 
 #list_of_strengths{
+	color: ed767a;
 
 
 }
 
 #experience{
+	color: b54a71;
 
 
 }
 
 .company{
+	color: ed767a;
 	padding: inherit;
 
 
