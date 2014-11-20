@@ -1,3 +1,4 @@
+
 body {
 	font-family: Arial, Verdana, sans-serif;
 	background-color: #EC9D45;
@@ -15,8 +16,9 @@ p {
 
 }
 
+
 #top{
-	color: #884800;
+	color: #1D6F93;
 
 
 }
@@ -28,7 +30,7 @@ a{
 }
 
 h1, h2, h3, h4 {
-	color: #884800;
+	color: #1D6F93;
 	;
 
 }
@@ -55,7 +57,7 @@ h1, h2, h3, h4 {
 
 }
 
-.company{
+h2.company{
 	color:#884800;
 	padding: inherit;
 
